@@ -1,0 +1,6 @@
+fastapi
+uvicorn
+sqlalchemy
+pymysql  # MySQL driver
+pydantic
+alembic  # For database migrations
